@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sreelekshmi210
 - 👀 I’m interested in computer vision
 - 🌱 I’m currently learning DL
-- 💞️ I’m looking to collaborate on any ML project.
 - 📫 Reach me through sreelekshmirv2@gmail.com
 
 <!---
